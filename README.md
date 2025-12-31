@@ -10,8 +10,6 @@
 </div> 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h3>
-<div style="text-align: left;">
-<img src="https://github-readme-stats.vercel.app/api?username=Einside0227&show_icons=true&hide_border=true&border_radius=14&bg_color=20,EFFFFA,EAE7FF&title_color=2D2A2E&text_color=2D2A2E&icon_color=8E9AE6" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einside0227&layout=compact&hide_border=true&border_radius=14&bg_color=20,EFFFFA,EAE7FF&title_color=2D2A2E&text_color=2D2A2E" height="165"/> </div> 
 
 
 
